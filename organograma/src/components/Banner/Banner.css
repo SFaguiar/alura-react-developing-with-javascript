@@ -1,0 +1,8 @@
+.main__banner {
+    background-color: #6278F7;
+    text-align: center;
+}
+
+.main__banner img {
+    max-width: 100%;
+}
